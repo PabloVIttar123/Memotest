@@ -1,0 +1,14 @@
+[
+    {"id":1,"coincidencia":1,"image":"http://dummyimage.com/200x200.png/dddddd/000000"},
+    {"id":2,"coincidencia":2,"image":"http://dummyimage.com/200x200.png/cc0000/ffffff"},
+    {"id":3,"coincidencia":3,"image":"http://dummyimage.com/200x200.png/ff4444/ffffff"},
+    {"id":4,"coincidencia":4,"image":"http://dummyimage.com/200x200.png/cc0000/ffffff"},
+    {"id":5,"coincidencia":5,"image":"http://dummyimage.com/200x200.png/cc0000/ffffff"},
+    {"id":6,"coincidencia":6,"image":"http://dummyimage.com/200x200.png/ff4444/ffffff"},
+    {"id":7,"coincidencia":1,"image":"http://dummyimage.com/200x200.png/dddddd/000000"},
+    {"id":8,"coincidencia":2,"image":"http://dummyimage.com/200x200.png/cc0000/ffffff"},
+    {"id":9,"coincidencia":3,"image":"http://dummyimage.com/200x200.png/ff4444/ffffff"},
+    {"id":10,"coincidencia":4,"image":"http://dummyimage.com/200x200.png/cc0000/ffffff"},
+    {"id":11,"coincidencia":5,"image":"http://dummyimage.com/200x200.png/cc0000/ffffff"},
+    {"id":12,"coincidencia":6,"image":"http://dummyimage.com/200x200.png/ff4444/ffffff"}
+]
